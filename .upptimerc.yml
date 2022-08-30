@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://ichengchao.oss-cn-hangzhou.aliyuncs.com/static/image/login_logo.png
   name: ichengchao
   introTitle: "**ichengchao** status"
-  introMessage: [**chengchao.name**](https://www.chengchao.name)
+  introMessage: "[**chengchao.name**](https://www.chengchao.name)"
   navbar:
     - title: Status
       href: /
